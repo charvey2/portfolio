@@ -1,15 +1,14 @@
 ---
 date: '2'
-title: 'Spotify Profile'
+title: 'Attendance Web App'
 cover: './demo.png'
-github: 'https://github.com/bchiang7/spotify-profile'
-external: 'https://spotify-profile.herokuapp.com/'
+github: 'https://github.com/charvey2/CSC-424-Project'
 tech:
   - React
   - Styled Components
   - Express
-  - Spotify API
-  - Heroku
+  - Node
+  - Apache Cassandra
 ---
 
-A web app for visualizing personalized Spotify data. View your top artists, top tracks, recently played tracks, and detailed audio information about each track. Create and save new playlists of recommended tracks based on your existing playlists and more.
+A web application intended for a community church's website that facilitates attendance tracking and scheduling of events. Utilizes PyTorch to forecast attendance for upcoming programs.
