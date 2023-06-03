@@ -2,24 +2,28 @@ import { css } from 'styled-components';
 
 const variables = css`
   :root {
-    --dark-navy: #020c1b;
-    --navy: #0a192f;
-    --light-navy: #112240;
-    --lightest-navy: #233554;
-    --navy-shadow: rgba(2, 12, 27, 0.7);
-    --dark-slate: #495670;
-    --slate: #8892b0;
-    --light-slate: #a8b2d1;
-    --lightest-slate: #ccd6f6;
+    --dark-navy: #121212;
+    --navy: #232323;
+    --light-navy: #292828;
+    --lightest-navy: #81717a;
+    --navy-shadow: rgba(0, 0, 0, 0.7);
+    --dark-slate: #9d8ca1;
+    --slate: #bdb6c2;
+    --light-slate: #cec7d4;
+    --lightest-slate: #f4edf7;
     --white: #e6f1ff;
-    --green: #64ffda;
-    --green-tint: rgba(100, 255, 218, 0.1);
+    --green: #9c1de7;
+    --green-tint: rgba(216, 100, 255, 0.1);
     --pink: #f57dff;
     --blue: #57cbff;
 
     --font-sans: 'Calibre', 'Inter', 'San Francisco', 'SF Pro Text', -apple-system, system-ui,
       sans-serif;
     --font-mono: 'SF Mono', 'Fira Code', 'Fira Mono', 'Roboto Mono', monospace;
+    --font-mons: 'Montserrat', sans-serif;
+    --font-robo: 'Roboto', sans-serif;
+    --font-source: 'Source Code Pro', monospace;
+    --font-poppins: 'Poppins', sans-serif;
 
     --fz-xxs: 12px;
     --fz-xs: 13px;

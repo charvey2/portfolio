@@ -61,13 +61,13 @@ const Hero = () => {
 
   const one = <h1>Hi, my name is</h1>;
   const two = <h2 className="big-heading">Cameron Harvey.</h2>;
-  const three = <h3 className="big-heading">I design and build software.</h3>;
+  const three = <h3 className="big-heading">I shape digital landscapes with software design.</h3>;
   const four = (
     <>
       <p>
-        I’m a software engineer specializing in building (and occasionally designing) exceptional
-        digital experiences. Currently, I’m working with a team of talented artists and programmers
-        to develop a game about rebuilding the environment called{' '}
+        With a background in software engineering, I'm passionate about creating extraordinary
+        digital experiences that redefine user expectations. Currently, I’m working with a team of
+        talented artists and programmers to develop a game about rebuilding the environment called{' '}
         <a href="https://planturi.itch.io/planturi" target="_blank" rel="noreferrer">
           Planturi
         </a>
