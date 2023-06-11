@@ -8,7 +8,7 @@ tech:
   - Styled Components
   - Express
   - Node
-  - Apache Cassandra
+  - Cassandra
 ---
 
 A web application intended for a community church's website that facilitates attendance tracking and scheduling of events. Utilizes PyTorch to forecast attendance for upcoming programs.
